@@ -7,4 +7,4 @@ Assignment - Week 6: Gaussian processes and Bayesian optimization using GPy and 
 
 Final Project: Facial Composits using Variational Autoencoder and Gaussian Processes   
   
-Course Certificate: https://www.coursera.org/account/accomplishments/verify/9N4DJJ4WASFQ  
+Course Certificate: https://www.coursera.org/account/accomplishments/certificate/9N4DJJ4WASFQ  
